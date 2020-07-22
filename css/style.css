@@ -1,0 +1,12 @@
+.box{
+	min-height: 100px;
+	background-color:tomato;
+	margin-bottom: 5px; 
+}
+h1{
+	text-align: center;
+}
+.b_der{
+	border: 1px solid green;
+	margin-bottom: 20px; 
+}
